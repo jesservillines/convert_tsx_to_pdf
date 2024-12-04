@@ -57,7 +57,7 @@ This repository contains examples of generating PDFs from both React/TypeScript 
 1. Create a virtual environment (recommended):
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  # On Windows: venv\\Scripts\\activate
    ```
 
 2. Navigate to the python-implementation directory:
